@@ -12,3 +12,8 @@ Also,
 Make sure that your data type can match up nicely to each of the said registers.
 Then make sure you do the calculation for the expression above correctly.
 Lastly, show a dump of your registers when finished.
+
+
+
+# Register Dump
+![registerFinal](https://user-images.githubusercontent.com/50899639/168021954-62bafa4e-4af9-4609-b5fc-d5d9e0967b99.PNG)
